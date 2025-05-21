@@ -1,4 +1,4 @@
-# # Binary Classification
+# Binary Classification
 
 This repository contains a binary classification project implemented using a Jupyter Notebook. The objective is to build a machine learning model that accurately classifies data points into one of two categories.
 
